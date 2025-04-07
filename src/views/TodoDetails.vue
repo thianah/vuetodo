@@ -9,7 +9,7 @@
         </p>
       </div>
       <div v-else class="text-red-500">Todo not found.</div>
-      <router-link to="/todolist" class="mt-4 inline-block text-blue-500 hover:underline">
+      <router-link to="/todolist" class="mt-4 inline-block text-blue-500 hover:underline mt-40">
         Back to Todo List
       </router-link>
     </div>

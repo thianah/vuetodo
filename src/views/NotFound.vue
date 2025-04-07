@@ -1,7 +1,7 @@
 <template>
   <div class="not-found">
     <h1 class="text-3xl font-bold text-red-600">404 - Page Not Found</h1>
-    <p class="mt-4 text-gray-700">
+    <p class="mt-4 text-gray-700 mt-30">
       Sorry, the page you are looking for does not exist.
     </p>
     <router-link to="/" class="mt-4 inline-block text-blue-500 hover:underline">
