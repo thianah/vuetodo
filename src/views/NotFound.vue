@@ -4,7 +4,7 @@
     <p class="mt-4 text-gray-700 mt-30">
       Sorry, the page you are looking for does not exist.
     </p>
-    <router-link to="/" class="mt-4 inline-block text-blue-500 hover:underline">
+    <router-link to="/" class="mt-4 inline-block text-blue-700 hover:underline">
       Go back to Home
     </router-link>
   </div>
